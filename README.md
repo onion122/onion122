@@ -2,7 +2,7 @@
 
 ### Introduction  
 <div align="center">
-<img src="https://i.pinimg.com/originals/32/79/46/3279462667fb3498a6aa144e7cdea2ae.gif" align="center" style="width: 100%" />
+<img src="https://i.pinimg.com/originals/32/79/46/3279462667fb3498a6aa144e7cdea2ae.gif" align="center" style="width: 60%" />
 </div>  
   
 
